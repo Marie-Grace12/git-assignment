@@ -1,1 +1,1 @@
- my feature . content . txt
+This is a new feature
