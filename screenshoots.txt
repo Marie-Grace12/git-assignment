@@ -1,0 +1,2 @@
+Step 1 - Initialized Git repository:
+![Git Init](Screenshot(1).png)
